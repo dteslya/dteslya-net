@@ -133,7 +133,3 @@ link = "https://instagram.com/dteslya"
 [[project.extra.social]]
 icon = "fontawesome/brands/linkedin"
 link = "https://www.linkedin.com/in/dteslya"
-
-[project.extra.analytics]
-provider = "google"
-property = "G-PP8LCLJG0S"
