@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-Personal blog (https://dteslya.engineer) built with [Zensical](https://zensical.org) (the successor to Material for MkDocs, `classic` theme variant) and hosted on Netlify. There is no application code or test suite — the repo is Markdown content plus `zensical.toml`.
+Personal blog (https://dteslya.net) built with [Zensical](https://zensical.org) (the successor to Material for MkDocs, `classic` theme variant) and hosted on Netlify. There is no application code or test suite — the repo is Markdown content plus `zensical.toml`.
 
 ## Commands
 

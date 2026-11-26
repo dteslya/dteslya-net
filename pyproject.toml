@@ -1,0 +1,18 @@
+[project]
+name = "dteslya-net"
+version = "0.1.0"
+description = "Personal blog built with Zensical"
+readme = "README.md"
+authors = [
+    { name = "Dmitry Teslya", email = "dmitry.teslya@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "zensical>=0.0.73",
+]
+
+[tool.uv]
+package = false

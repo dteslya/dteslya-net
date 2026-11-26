@@ -1,9 +1,9 @@
 [project]
 site_name = "Dmitry Teslya"
-site_url = "https://dteslya.engineer"
+site_url = "https://dteslya.net"
 site_author = "Dmitry Teslya"
-repo_url = "https://github.com/dteslya/dteslya-engineer"
-repo_name = "dteslya/dteslya-engineer"
+repo_url = "https://github.com/dteslya/dteslya-net"
+repo_name = "dteslya/dteslya-net"
 edit_uri = "edit/main/docs/"
 copyright = "Copyright &copy; 2018 - 2024 Dmitry Teslya"
 extra_css = ["stylesheets/asciinema-player.css"]

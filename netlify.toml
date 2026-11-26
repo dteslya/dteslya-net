@@ -1,3 +1,16 @@
 [build]
 command = "pip install -r requirements.txt && zensical build"
 publish = "site"
+
+# Old domain -> new domain (dteslya.engineer must stay a domain alias in Netlify)
+[[redirects]]
+from = "https://dteslya.engineer/*"
+to = "https://dteslya.net/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://www.dteslya.engineer/*"
+to = "https://dteslya.net/:splat"
+status = 301
+force = true
